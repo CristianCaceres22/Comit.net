@@ -1,0 +1,55 @@
+
+h1{
+    text-align: center;
+    background: hsla(165, 13%, 19%, 0.91);
+    color:white
+    
+}
+
+body{
+
+   background-image :url("programacion.jpg");
+   font-family: 'Merriweather Sans', sans-serif;
+   color:white
+   
+}
+
+
+.fotocv{
+
+    width: 200px;
+    display: block;
+    margin: auto;
+    
+}
+
+.datos{
+
+    text-align: center;
+}
+
+.caja { 
+    color:white;
+    text-align: center; 
+    background: hsla(165, 13%, 19%, 0.91); 
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    border-radius: 35px 0px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 2px solid rgba(230, 234, 236, 0.911);
+ }
+
+.links {
+    color:white;
+    text-align: center; 
+    background: hsla(165, 13%, 19%, 0.91); 
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    border-radius: 35px 0px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 2px solid rgba(230, 234, 236, 0.911);
+  }
